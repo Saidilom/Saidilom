@@ -1,4 +1,4 @@
-![logo](https://github.com/samandaruzbekistan/profile/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/Saidilom/Unlim_Lawe/blob/main/assets/gif.gif)
 <h1 align="center">Hi 👋, I'm Saidislom</h1>
 <h3 align="center">A web and mobile developer from Uzbekistan</h3>
 
