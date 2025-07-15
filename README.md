@@ -1,8 +1,10 @@
 ![logo](https://github.com/samandaruzbekistan/profile/blob/main/Github%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Samandar</h1>
+<h1 align="center">Hi 👋, I'm Saidislom</h1>
 <h3 align="center">A web and mobile developer from Uzbekistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
+
+![card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 - 🔭 I’m currently working on [Quizgram](quizgram.uz)
 
