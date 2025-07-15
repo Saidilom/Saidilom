@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saidilom/Unlim_Lawe/blob/main/assets/gif.gif)
 <h1 align="center">Hi 👋, I'm Saidislom</h1>
-<h3 align="center">A web and mobile developer from Uzbekistan</h3>
+<h3 align="center">A Fullstack developer from Uzbekistan</h3>
 
 <Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saidislom
 =================================================================================================================================
@@ -44,6 +44,7 @@ A Fullstack developer from Uzbekistan
 
 ### Badges
 
+<<<<<<< HEAD
 <a href="https://github.com/https://github.com/Saidilom" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Saidilom&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
@@ -57,3 +58,6 @@ A Fullstack developer from Uzbekistan
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Saidislom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+=======
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samandaruzbekistan&" alt="samandaruzbekistan" /></p>
+>>>>>>> 8ff650627ea6cdf26da21920d66b7d6e4f22efcf
