@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saidilom/Unlim_Lawe/blob/main/assets/gif.gif)
 <h1 align="center">Hi 👋, I'm Saidislom</h1>
-<h3 align="center">A web and mobile developer from Uzbekistan</h3>
+<h3 align="center">A Fullstack developer from Uzbekistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
 
