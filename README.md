@@ -1,32 +1,23 @@
 ![logo](https://github.com/Saidilom/Unlim_Lawe/blob/main/assets/gif.gif)
 
-<Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saidislom
-=================================================================================================================================
+<h1 align="center">
+  Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
+  I'm Saidislom
+</h1>
 
-A Fullstack developer from Uzbekistan
--------------------------------------
+<h3 align="center">A Fullstack developer from Uzbekistan</h3>
 
-🔭 I’m currently working on Quizgram
+---
 
-🌱 I’m currently learning React, Next.js
+### 🚀 О себе
 
-👯 I’m looking to collaborate on MyTok
-
-🤝 I’m looking for help with Quizgram mobile app
-
-👨‍💻 All of my projects are available at goldapps.uz
-
-📝 I regularly write articles on https://t.me/faeruex
-
-💬 Ask me about PHP, Laravel, Flutter, Dart, Python
-
-📫 How to reach me unlimlawe@gmail.com
-
-📄 Know about my experiences goldapps.uz
-
-⚡ Fun fact I think I am funny
-
-* 🌍  I'm based in Узбекистан
+- 🌍 Я из Узбекистана, занимаюсь fullstack-разработкой  
+- 🌱 Сейчас активно прокачиваюсь в **React**, **Next.js**, **Kotlin**, **Firebase**  
+- 🔨 Работаю над собственными продуктами, в том числе [sayhunmanagment.uz](https://sayhunmanagment.uz/)  
+- 📝 Делюсь знаниями, кейсами и статьями в Telegram: [@faeruex](https://t.me/faeruex)  
+- 💬 Можешь спросить меня про: `React`, `Next.js`, `Kotlin`, `Node.js`, `Firebase`, `Tailwind`, `MongoDB`  
+- 📫 Связь со мной: **unlimlawe@gmail.com**  
+- ⚡ Факт: могу сидеть за проектом 12 часов, если он `цепляет`
 
 ### Skills
 
