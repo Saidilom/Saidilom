@@ -22,59 +22,6 @@
 
 ---
 
-
-### 🚀 skills
-
-
-<p align="center">
-  <!-- Первый ряд -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Второй ряд -->
-  <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" title="Laravel">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://wordpress.com" target="_blank" title="WordPress">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://figma.com/" target="_blank" title="Figma">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" title="Express">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" />
-  </a>
-</p>
-
----
-
 ### 🌐 Socials
 
 <p align="left">
@@ -92,6 +39,12 @@
 </p>
 
 
+---
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,nestjs,react,reactnative,express,bootstrap,nginx,html,css" />
+</p>
 
 ---
 
