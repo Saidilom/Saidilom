@@ -55,3 +55,9 @@
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Saidislom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
+</div>
