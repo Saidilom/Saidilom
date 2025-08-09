@@ -1,11 +1,16 @@
-<div align="center">
-  <img src="https://github.com/Saidilom/Saidilom/blob/main/assets/gg.gif" alt="logo" />
-</div>
+<p align="center">
+  <a href="https://postimg.cc/MMjdyXpj" target="_blank">
+    <img src="https://i.postimg.cc/MMjdyXpj/Untitled-13.png" alt="Banner" style="max-width: 100%; height: auto;">
+  </a>
+</p>
+
+
+
 
 
 <h1 align="center">
-  Hi there! <img src="<img width="1920" height="226" alt="Untitled (13)" src="https://github.com/user-attachments/assets/a08ff68d-f764-4833-9657-3345cc5c416e" />
-" width="30px" />
+  Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
+
   I'm Saidislom
 </h1>
 
