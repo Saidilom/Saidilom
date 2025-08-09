@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://postimg.cc/MMjdyXpj" target="_blank">
-    <img src="https://i.postimg.cc/MMjdyXpj/Untitled-13.png" alt="Banner" style="max-width: 100%; height: auto;">
-  </a>
-</p>
+![logo](https://i.postimg.cc/ZRw2zdkj/Untitled-13.png)
 
 
 
