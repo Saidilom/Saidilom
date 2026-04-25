@@ -19,7 +19,7 @@
 - 🌍 Я из Узбекистана, занимаюсь fullstack-разработкой  
 - 🌱 Сейчас активно прокачиваюсь в **React**, **Next.js**, **Kotlin**, **Firebase**  
 - 🔨 Работаю над собственными продуктами, в том числе [sayhunmanagment.uz](https://sayhunmanagment.uz/)  
-- 📝 Делюсь знаниями, кейсами и статьями в Telegram: [@faeruex](https://t.me/faeruex)  
+- 📝 Делюсь знаниями, кейсами и статьями в Telegram: [@faeruex](https://t.me/co_fullich)  
 - 💬 Можешь спросить меня про: `React`, `Next.js`, `Kotlin`, `Node.js`, `Firebase`, `Tailwind`, `MongoDB`  
 - 📫 Связь со мной: **unlimlawe@gmail.com**  
 - ⚡ Факт: могу сидеть за проектом 12 часов, если он `цепляет`
